@@ -1,4 +1,4 @@
-*.class
+*.examplec
 
 .DS_Store
 .classpath

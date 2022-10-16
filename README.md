@@ -38,7 +38,7 @@ To complete this task, you must implement an iterator that allows us to iterate 
 2. `n` = 4: iterate over `"1333"`, `"3133"`, `"3313"`, `"3331"`, `"4444"`.
 3. `n` = 5: iterate over `"14444"`, `"22333"`, `"23233"`, `"23323"`, `"23332"`, `"32233"`, `"32323"`, `"32332"`, `"33223"`, `"33232"`, `"33322"`, `"41444"`, `"44144"`, `"44414"`, `"44441"`, `"55555"`.
 
-> For this task, you should implement **both**  `SSDNumber.getSSDNumberIterator` and a class that implements the `SSDNumberIterator` interface. You should return an instance of the class you implement in `getSSDNumberIterator`. All your work should be in the `ssdnumbers` package: the iterator you implement should be in the folder `src/main/java/ssdnumbers` or it can be a `private` class.
+> For this task, you should implement **both**  `SSDNumber.getSSDNumberIterator` and a examplec that implements the `SSDNumberIterator` interface. You should return an instance of the examplec you implement in `getSSDNumberIterator`. All your work should be in the `ssdnumbers` package: the iterator you implement should be in the folder `src/main/java/ssdnumbers` or it can be a `private` examplec.
 
 ## Submission Instructions
 
@@ -61,7 +61,7 @@ To complete this task, you must implement an iterator that allows us to iterate 
 By submitting your work to Github you agree to the following:
 
 + You did not consult with any other person for the purpose of completing this activity.
-+ You did not aid any other person in the class in completing their activity.
++ You did not aid any other person in the examplec in completing their activity.
 + You are submitting work from your own GitHub account.
-+ If you consulted any external sources, such as resources available on the World Wide Web, in completing the examination then you have cited the source. (You do not need to cite class notes or Sun/Oracle Java documentation.)
++ If you consulted any external sources, such as resources available on the World Wide Web, in completing the examination then you have cited the source. (You do not need to cite examplec notes or Sun/Oracle Java documentation.)
 + You are not aware of any infractions of the honour code for this activity.
